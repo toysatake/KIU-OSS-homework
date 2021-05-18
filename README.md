@@ -1,4 +1,4 @@
-![사진](./Images/pyke_9.jpg)
+![사진](./Images/Pyke_9.jpg)
 ***
 
 # 나의 소개
